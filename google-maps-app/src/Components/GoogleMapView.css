@@ -1,0 +1,11 @@
+.half-screen-container {
+  width: auto;
+  max-height: 100%;
+  display: flex;
+  }
+
+  .outer-container {
+    margin: 0 auto;
+    overflow: auto; 
+}
+  
